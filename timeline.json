@@ -1,0 +1,46 @@
+{
+  "title": {
+    "media": {
+      "url": "https://media.licdn.com/dms/image/v2/D4D03AQE5mK5suAKdBQ/profile-displayphoto-shrink_800_800/B4DZXSUl_kG8Ag-/0/1742990373883?e=1776297600&v=beta&t=9kJTIfsGp-_3rIpm4ZN0AxJ8p9J9JutgCrM5PgjrGKo",
+      "caption": "LinkedIn",
+      "credit": "https://www.linkedin.com/in/aacis017/"
+    },
+    "text": {
+      "headline": "Aashish Dhakal's Timeline",
+      "text": "<p>Aashish Dhakal — Software engineer born Dec 20, 1999. Graduated university in 2022, worked at Riddhasoft (2022–2024), and moved to Japan on Nov 1, 2024; currently a software engineer at Robotix Japan.</p>"
+    }
+  },
+  "events": [
+    {
+      "media": { "url": "", "caption": "", "credit": "" },
+      "start_date": { "year": "1999", "month": "12", "day": "20" },
+      "text": { "headline": "Born", "text": "<p>Born on December 20, 1999.</p>" }
+    },
+    {
+      "media": { "url": "", "caption": "", "credit": "" },
+      "start_date": { "year": "2018" },
+      "text": { "headline": "Started University", "text": "<p>Started university in 2018.</p>" }
+    },
+    {
+      "media": { "url": "", "caption": "", "credit": "" },
+      "start_date": { "year": "2022" },
+      "text": { "headline": "Graduated University", "text": "<p>Graduated in 2022.</p>" }
+    },
+    {
+      "media": { "url": "", "caption": "", "credit": "" },
+      "start_date": { "year": "2022" },
+      "end_date": { "year": "2024" },
+      "text": { "headline": "Software Engineer — Riddhasoft Pvt Ltd", "text": "<p>Worked at Riddhasoft Pvt Ltd from 2022 to 2024.</p>" }
+    },
+    {
+      "media": { "url": "", "caption": "", "credit": "" },
+      "start_date": { "year": "2024", "month": "11", "day": "1" },
+      "text": { "headline": "Moved to Japan", "text": "<p>Arrived in Japan on November 1, 2024.</p>" }
+    },
+    {
+      "media": { "url": "", "caption": "", "credit": "" },
+      "start_date": { "year": "2024", "month": "11", "day": "1" },
+      "text": { "headline": "Started at Robotix Japan", "text": "<p>Working as a software engineer at Robotix Japan from November 2024 — Present.</p>" }
+    }
+  ]
+}
